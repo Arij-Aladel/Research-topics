@@ -9,11 +9,13 @@
     
 3. 2020    
     1. [Do Transformers Need Deep Long-Range Memory?](https://arxiv.org/pdf/2007.03356.pdf)
-    2. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf) 3 Sep 2020
-    3. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
+    2. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)  30 June 2020
+    3. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf) 3 Sep 2020
+    4. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
     
 
 4. 2019
+    1. [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/pdf/2006.16236.pdf)
 
 5. 2018
 
