@@ -9,6 +9,8 @@
 1. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)
 2. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/)
 3. [HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/pdf/2203.10741.pdf)
+4. [Semantic Self-Segmentation for Abstractive Summarization of Long Documents in Low-Resource Regimes](https://www.semanticscholar.org/paper/Semantic-Self-Segmentation-for-Abstractive-of-Long-Moro-Ragazzi/4eb45f33446018175e266738be22f4d830ed697e)  28 June 2022
+
     
 </details>
 
@@ -18,6 +20,7 @@
 5. [Poolingformer: Long document modeling with pooling attention](https://arxiv.org/pdf/2105.04371.pdf)
 1. [Long-Span Summarization via Local Attention and Content Selection](https://arxiv.org/pdf/2105.03801.pdf)  8 May 2021
 2. [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/pdf/1905.06566.pdf)
+1. [LongT5: Efficient Text-To-Text Transformer for Long Sequences](https://arxiv.org/pdf/2112.07916.pdf)
     
 </details> 
     
@@ -25,6 +28,7 @@
 <details><summary>  2020 </summary>
 
 5. [Do Transformers Need Deep Long-Range Memory?](https://arxiv.org/pdf/2007.03356.pdf)
+   [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  17 April 2020
 2. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)  30 June 2020
 3. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf) 3 Sep 2020
 4. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
