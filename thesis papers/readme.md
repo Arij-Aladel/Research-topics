@@ -19,6 +19,7 @@
 4. [Controllable Abstractive Dialogue Summarization with Sketch Supervision](https://arxiv.org/abs/2105.14064)
 5. [Poolingformer: Long document modeling with pooling attention](https://arxiv.org/pdf/2105.04371.pdf)
 1. [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)  ArXiv  11 January 2021
+1. [Hierarchical Learning for Generation with Long Source Sequences](https://arxiv.org/pdf/2104.07545.pdf)  Published 15 April 2021
 1. [Long-Span Summarization via Local Attention and Content Selection](https://arxiv.org/pdf/2105.03801.pdf)  8 May 2021
 2. [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://arxiv.org/pdf/1905.06566.pdf)
 1. [LongT5: Efficient Text-To-Text Transformer for Long Sequences](https://arxiv.org/pdf/2112.07916.pdf)
@@ -68,13 +69,13 @@
 
 <details><summary>  2017 </summary>
 
-1. 
+1. [Get To The Point: Summarization with Pointer-Generator Networks](https://aclanthology.org/P17-1099.pdf)   Published 1 April 2017
     
 </details> 
 
 <details><summary>  2016 </summary>
 
-1. 
+1. [Learning-based single-document summarization with compression and anaphoricity constraints]()
     
 </details> 
 
