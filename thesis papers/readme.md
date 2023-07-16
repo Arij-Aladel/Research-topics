@@ -101,5 +101,13 @@
 
 1. [Efficient Long-Text Understanding with Short-Text Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00547/115346/Efficient-Long-Text-Understanding-with-Short-Text)
 2. [Simple Local Attentions Remain Competitive for Long-Context Tasks](https://arxiv.org/pdf/2112.07210.pdf) 4 May 2022
+3. [Adapting Pretrained Text-to-Text Models for Long Text Sequences](https://arxiv.org/pdf/2209.10052.pdf)  16 Nov 2022
+4. [Investigating Efficiently Extending Transformers Long Input Summarization](https://arxiv.org/pdf/2208.04347.pdf)  8 Aug 2022
+5. [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)  28 Feb 2023
+6. [How Far are We from Robust Long Abstractive Summarization?](https://arxiv.org/pdf/2210.16732.pdf)  30 Oct 2022
+7. [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding]()
+8. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf)  13 Jul 2023
+9. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf) 6 Jul 2023
+10. []()
     
 </details> 
