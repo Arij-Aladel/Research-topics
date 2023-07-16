@@ -96,3 +96,10 @@
 1. 
     
 </details> 
+
+<details><summary>  To read </summary>
+
+1. [Efficient Long-Text Understanding with Short-Text Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00547/115346/Efficient-Long-Text-Understanding-with-Short-Text)
+2. [Simple Local Attentions Remain Competitive for Long-Context Tasks](https://arxiv.org/pdf/2112.07210.pdf) 4 May 2022
+    
+</details> 
