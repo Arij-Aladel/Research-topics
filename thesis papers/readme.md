@@ -121,5 +121,9 @@
 19. [COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf) 14 Apr 2023
 20. [AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content](https://arxiv.org/pdf/2305.14806.pdf) 24 May 2023
 21. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf) 24 May 2023
+22. [Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)  23 Jun 2023
+23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENTTRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)  8 Nov 2020
+24. [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)  15 Jun 2023
+    
     
 </details> 
