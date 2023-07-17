@@ -118,6 +118,8 @@
 16. [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)   4 Mar 2022
 17. [PONET: POOLING NETWORK FOR EFFICIENT TOKEN MIXING IN LONG SEQUENCES](https://arxiv.org/pdf/2110.02442.pdf) 22 May 2023
 18. [DEBERTAV3: IMPROVING DEBERTA USING ELECTRA-STYLE PRE-TRAINING WITH GRADIENTDISENTANGLED EMBEDDING SHARING](https://arxiv.org/pdf/2111.09543.pdf) 24 Mar 2023
-19. []()
+19. [COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf) 14 Apr 2023
+20. [AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content](https://arxiv.org/pdf/2305.14806.pdf) 24 May 2023
+21. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf) 24 May 2023
     
 </details> 
