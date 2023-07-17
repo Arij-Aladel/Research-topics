@@ -114,5 +114,10 @@
 12. 
 13. [Dynamic Masking Rate Schedules for MLM Pretraining](https://arxiv.org/pdf/2305.15096.pdf)
 14. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) 26 Jul 2019
+15. [Cross-Attention is All You Need:Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf)
+16. [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)   4 Mar 2022
+17. [PONET: POOLING NETWORK FOR EFFICIENT TOKEN MIXING IN LONG SEQUENCES](https://arxiv.org/pdf/2110.02442.pdf) 22 May 2023
+18. [DEBERTAV3: IMPROVING DEBERTA USING ELECTRA-STYLE PRE-TRAINING WITH GRADIENTDISENTANGLED EMBEDDING SHARING](https://arxiv.org/pdf/2111.09543.pdf) 24 Mar 2023
+19. []()
     
 </details> 
