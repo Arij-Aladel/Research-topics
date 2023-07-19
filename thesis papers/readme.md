@@ -125,7 +125,9 @@
 23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENTTRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)  8 Nov 2020
 24. [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)  15 Jun 2023
 25. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 Jul 2022
-26. []()
+26. [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682.pdf)   26 Oct 2022
+27. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf) 4 Jun 2020
+28. [An Experimental Study on Pretraining Transformers from Scratch for IR](https://arxiv.org/pdf/2301.10444.pdf)   25 Jan 2023
     
     
 </details> 
