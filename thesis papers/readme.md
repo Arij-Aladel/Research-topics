@@ -132,7 +132,8 @@
 30. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf#cite.RMT)   24 May 2023
 31. [Blockwise Compression of Transformer-based Models without Retraining](https://arxiv.org/pdf/2304.01483.pdf)  4 Apr 2023
 32. [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475.pdf)
-33. []      
+33. [Text Compression-aided Transformer Encoding](https://arxiv.org/pdf/2102.05951.pdf)   11 Feb 2021
+34. [GROUPED SELF-ATTENTION MECHANISM FOR A MEMORY-EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2210.00440.pdf) 6 Oct 2022      
     
     
 </details> 
