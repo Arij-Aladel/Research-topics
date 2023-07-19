@@ -128,6 +128,11 @@
 26. [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682.pdf)   26 Oct 2022
 27. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf) 4 Jun 2020
 28. [An Experimental Study on Pretraining Transformers from Scratch for IR](https://arxiv.org/pdf/2301.10444.pdf)   25 Jan 2023
+29. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf) 13 Jul 2023
+30. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf#cite.RMT)   24 May 2023
+31. [Blockwise Compression of Transformer-based Models without Retraining](https://arxiv.org/pdf/2304.01483.pdf)  4 Apr 2023
+32. [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475.pdf)
+33. []      
     
     
 </details> 
