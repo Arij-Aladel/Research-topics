@@ -124,6 +124,8 @@
 22. [Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)  23 Jun 2023
 23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENTTRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)  8 Nov 2020
 24. [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)  15 Jun 2023
+25. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 Jul 2022
+26. []()
     
     
 </details> 
