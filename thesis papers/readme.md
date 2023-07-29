@@ -25,6 +25,7 @@
 1. [LongT5: Efficient Text-To-Text Transformer for Long Sequences](https://arxiv.org/pdf/2112.07916.pdf)
 1. [Charformer: Fast character transformers via gradient-based subword tokenization](https://arxiv.org/pdf/2106.12672.pdf)  Published 23 June 2021
 1. [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795.pdf)  30 July 2021
+2. [CDLM: Cross-Document Language Modeling](https://arxiv.org/pdf/2101.00406.pdf)
 1. [ GLaM: Efficient scaling of language models with mixtureof-experts. ](https://arxiv.org/pdf/2112.06905.pdf)   13 December 2021
 2. 
     
