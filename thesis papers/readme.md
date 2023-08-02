@@ -135,7 +135,8 @@
 32. [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475.pdf)
 33. [Text Compression-aided Transformer Encoding](https://arxiv.org/pdf/2102.05951.pdf)   11 Feb 2021
 34. [GROUPED SELF-ATTENTION MECHANISM FOR A MEMORY-EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2210.00440.pdf) 6 Oct 2022
-35. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)    
+35. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)
+36. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)  August 1–6, 2021. Facebook AI Research, 3Allen Institute for AI
     
     
 </details> 
