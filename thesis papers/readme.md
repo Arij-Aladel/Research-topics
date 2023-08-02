@@ -107,12 +107,11 @@
 4. [Investigating Efficiently Extending Transformers Long Input Summarization](https://arxiv.org/pdf/2208.04347.pdf)  8 Aug 2022
 5. [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)  28 Feb 2023
 6. [How Far are We from Robust Long Abstractive Summarization?](https://arxiv.org/pdf/2210.16732.pdf)  30 Oct 2022
-7. [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding]()
+7. [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding](https://arxiv.org/pdf/2305.14196.pdf) 23 May 2023
 8. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf)  13 Jul 2023
 9. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf) 6 Jul 2023
-10. [Position Information in Transformers:An Overview](https://watermark.silverchair.com/coli_a_00445.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqowggKmBgkqhkiG9w0BBwagggKXMIICkwIBADCCAowGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMOcB8eYR6F8MJnx-ZAgEQgIICXSwf3nR9NN0pG0oFdQ0PeG8o7iugty3Q8-GuXBpSD8KcvAUVg5UfIYIYUNjr1sYV0Tr1_LO-IuhR1bN45cQ1CFJKTLpnyQFTFw29cM4XRiTg0HsKLATU8RhpGm3GPprLWEOWFDiXeGvEFFpKsPohnmvrUnQ4Uz4J3BFbd3MQgjdOamfZ4_VYfBF-eBQZMbW58S26DCkfjUleg71qU-WCcQnsUJYkrgC_ssHAQZ4uVIlBCAJcPUaMrlD2htcDXzZeW0mwC1nMactcBP1BirA5vbcRllIV8qIFmOHESXdLYvtCTlhuHshvaungOi1jXxTMW9HpRsUKD7LZ8CfDfzrsbIiJrQt1krLUVFQK9OJMEAb7cYQ6yNiFgQvuLTVESE9D4LP7LM9MUxj334j6-blmoOCOp0yq2EtuckcvWpgnMmXqcyQhE5chKhwNzz8n8rNiCVFsb4dRA5d-HMG-qEo6lgB4sFTvo4enC4Yr7WBGWQg2oHFyEHAnnNpOXvY6KZvOYBhNivqXhOgs1lmyGNWuhTkjNQgOZ7uE66IztwfZ9x9boXBJ4qwGkaxzsaXVgNlMw_Q89OyNIJ16xx7oa5f13ppqBFlriZXzFVY4O1PcUtVaFGOuqn6ilytT-YFaHLOWtu4RmAZGThK4_eWIzZg2TA8TnV-kuIEU7adSh1EvCofnlFs5pjDzaztZGBbuRzts6tlwz2cqH2Zg4x4RV9HJClBHWHaXG1jfOCnbThmBM4SIliIrRNvNVpJvp9z482ch1qyeEc8aEgZozSgYNAVcSVoUeaoWzDtJNbT3btSo)
-11. [mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences](https://arxiv.org/pdf/2305.11129.pdf)  18 May 2023
-12. 
+10. [Position Information in Transformers:An Overview](https://arxiv.org/pdf/2102.11090.pdf)  9 Sep 2021
+11. [mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences](https://arxiv.org/pdf/2305.11129.pdf)  18 May 2023 
 13. [Dynamic Masking Rate Schedules for MLM Pretraining](https://arxiv.org/pdf/2305.15096.pdf)
 14. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) 26 Jul 2019
 15. [Cross-Attention is All You Need:Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf)
