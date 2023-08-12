@@ -1,6 +1,7 @@
 <details><summary>  2023 </summary>
 
 1. [How to avoid machine learning pitfalls: guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf)
+2. [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)  19 Jul 2023
 
 </details>
 
