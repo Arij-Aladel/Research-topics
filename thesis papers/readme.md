@@ -136,6 +136,8 @@
 34. [GROUPED SELF-ATTENTION MECHANISM FOR A MEMORY-EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2210.00440.pdf) 6 Oct 2022
 35. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)
 36. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)  August 1–6, 2021. Facebook AI Research, 3Allen Institute for AI
+37. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)    20 Dec 2022
+38. [he Stack: 3 TB of permissively licensed source code](https://arxiv.org/pdf/2211.15533.pdf)        20 Nov 2022
     
     
 </details> 
