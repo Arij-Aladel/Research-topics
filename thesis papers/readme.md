@@ -139,6 +139,7 @@
 36. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)  August 1–6, 2021. Facebook AI Research, 3Allen Institute for AI
 37. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)    20 Dec 2022
 38. [he Stack: 3 TB of permissively licensed source code](https://arxiv.org/pdf/2211.15533.pdf)        20 Nov 2022
+39. [https://arxiv.org/pdf/2110.08207.pdf](MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION)   17 March 2022
     
     
 </details> 
