@@ -11,6 +11,7 @@
 2. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/)
 3. [HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/pdf/2203.10741.pdf)
 4. [Semantic Self-Segmentation for Abstractive Summarization of Long Documents in Low-Resource Regimes](https://www.semanticscholar.org/paper/Semantic-Self-Segmentation-for-Abstractive-of-Long-Moro-Ragazzi/4eb45f33446018175e266738be22f4d830ed697e)  28 June 2022
+5. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
 
     
 </details>
