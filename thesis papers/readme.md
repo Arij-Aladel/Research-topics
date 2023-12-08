@@ -101,14 +101,16 @@
 26. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf)    23 Sep 2020  
 27. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
 28. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)   1 Oct 2020
-29. [Dynamic Context Selection for Document-level Neural Machine Translation via Reinforcement Learning](https://arxiv.org/pdf/2010.04314.pdf)  9 Oct 2020
-30. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
-31. [Rethinking Document-level Neural Machine Translation](https://arxiv.org/pdf/2010.08961.pdf) 18 October 2020
-32. [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/pdf/1911.02972.pdf)  1 Nov 2020
-33. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
-34. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
-35. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
-36. [CTRLSUM: TOWARDS GENERIC CONTROLLABLE TEXT SUMMARIZATION](https://arxiv.org/pdf/2012.04281.pdf)   8 Dec 2020
+29. [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/pdf/2010.03881.pdf)   8 Oct 2020
+30. [Dynamic Context Selection for Document-level Neural Machine Translation via Reinforcement Learning](https://arxiv.org/pdf/2010.04314.pdf)  9 Oct 2020
+31. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
+32. [Rethinking Document-level Neural Machine Translation](https://arxiv.org/pdf/2010.08961.pdf) 18 October 2020
+33. [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/pdf/1911.02972.pdf)  1 Nov 2020
+34. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
+35. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
+36. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
+37. [CTRLSUM: TOWARDS GENERIC CONTROLLABLE TEXT SUMMARIZATION](https://arxiv.org/pdf/2012.04281.pdf)   8 Dec 2020
+38. [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)  29 December 2020
 
     
 </details>  
@@ -127,44 +129,48 @@
 10. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)  24 May 2019 
 11. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)  26 May 2019
 12. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)  2 Jun 2019
-13. [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)   4 Jun 2019
-14. [Large memory layers with product keys](https://arxiv.org/pdf/1907.05242.pdf)   10 July 2019
-15. [Microsoft Translator at WMT 2019:Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/pdf/1907.06170.pdf)  14 Jul 2019
-16. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)  26 Jul 2019
-17. [Natural Questions: A Benchmark for Question Answering Research](https://aclanthology.org/Q19-1026.pdf)    1 August 2019
-18. [When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion](https://aclanthology.org/P19-1116.pdf)  August 2, 2019
-19. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799.pdf)   8 Aug 2019
-20. [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/pdf/1908.08960.pdf)   23 Aug 2019
-21. [Text Summarization with Pretrained Encoders](https://arxiv.org/pdf/1908.08345.pdf)  5 Sep 2019
-22. [Generating Logical Forms from Graph Representations of Text and Entities](https://arxiv.org/pdf/1905.08407.pdf)  25 Sep 2019
-23. [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)    26 Sep 2019
-24. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)       28 October 2019
-25. [Text Summarization with Pretrained Encoders.](https://arxiv.org/pdf/1910.12840.pdf)   Published 28 October 2019
-26. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)   28 Oct 2019
-27. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)   29 Oct 2019
-28. [Document-level Neural Machine Translation with Inter-Sentence Attention](https://bcmi.sjtu.edu.cn/~lubaoliang/papers/2019/2019-4.pdf)  31 Oct 2019
-29. [Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation](https://aclanthology.org/D19-1168.pdf)   1 November 2019
-30. [SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization](https://aclanthology.org/D19-5409.pdf)  4 Nov 2019
-31. [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://arxiv.org/pdf/1911.02671.pdf)  6 Nov 2019
-32. [COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING](https://arxiv.org/pdf/1911.05507.pdf)   13 Nov 2019  
+13. [Augmenting Self-attention with Persistent Memory](https://arxiv.org/pdf/1907.01470.pdf)   2 Jul 2019 
+14. [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)   4 Jun 2019
+15. [Large memory layers with product keys](https://arxiv.org/pdf/1907.05242.pdf)   10 July 2019
+16. [Microsoft Translator at WMT 2019:Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/pdf/1907.06170.pdf)  14 Jul 2019
+17. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)  26 Jul 2019
+18. [Natural Questions: A Benchmark for Question Answering Research](https://aclanthology.org/Q19-1026.pdf)    1 August 2019
+19. [When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion](https://aclanthology.org/P19-1116.pdf)  August 2, 2019
+20. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799.pdf)   8 Aug 2019
+21. [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/pdf/1908.08960.pdf)   23 Aug 2019
+22. [Text Summarization with Pretrained Encoders](https://arxiv.org/pdf/1908.08345.pdf)  5 Sep 2019
+23. [Generating Logical Forms from Graph Representations of Text and Entities](https://arxiv.org/pdf/1905.08407.pdf)  25 Sep 2019
+24. [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)    26 Sep 2019
+25. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)       28 October 2019
+26. [Text Summarization with Pretrained Encoders.](https://arxiv.org/pdf/1910.12840.pdf)   Published 28 October 2019
+27. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)   28 Oct 2019
+28. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)   29 Oct 2019
+29. [Document-level Neural Machine Translation with Inter-Sentence Attention](https://bcmi.sjtu.edu.cn/~lubaoliang/papers/2019/2019-4.pdf)  31 Oct 2019
+30. [Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation](https://aclanthology.org/D19-1168.pdf)   1 November 2019
+31. [SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization](https://aclanthology.org/D19-5409.pdf)  4 Nov 2019
+32. [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://arxiv.org/pdf/1911.02671.pdf)  6 Nov 2019
+33. [COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING](https://arxiv.org/pdf/1911.05507.pdf)   13 Nov 2019
+34. [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242.pdf)    16 Dec 2019
     
 </details>
 
 
 <details><summary>  2018 </summary>
 
-1. [Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation](https://openreview.net/pdf?id=Hygfmc5U-7)  2018  
-2. [Self-Attention with Relative Position Representations](https://arxiv.org/pdf/1803.02155.pdf)  12 Apr 2018
-3. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)   26 May 2019
-4. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf)  30 Jan 2018
-5. [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://aclanthology.org/N18-1065.pdf)   June 1 - 6, 2018
-6. [Constructing Datasets for Multi-hop Reading Comprehension Across Documents](https://arxiv.org/pdf/1710.06481.pdf)   11 Jun 2018
-7. [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://arxiv.org/pdf/1809.09600.pdf)  25 Sep 2018
-8. [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://arxiv.org/pdf/1809.01576.pdf)   1 Oct 2018
-9. [Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581.pdf)    8 Oct 2018
-10. [Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.org/K18-1028.pdf) October 31 - November 1, 2018
-11. [MUSIC TRANSFORMER: GENERATING MUSIC WITH LONG-TERM STRUCTURE](https://arxiv.org/pdf/1809.04281.pdf)  12 Dec 2018 
-12. 
+1. [Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation](https://openreview.net/pdf?id=Hygfmc5U-7)  2018
+2. [SEARCHING FOR ACTIVATION FUNCTIONS](https://openreview.net/pdf?id=Hkuq2EkPf)   12 Feb 2018
+3. [Self-Attention with Relative Position Representations](https://arxiv.org/pdf/1803.02155.pdf)  12 Apr 2018
+4. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)   26 May 2019
+5. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf)  30 Jan 2018
+6. [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://aclanthology.org/N18-1065.pdf)   June 1 - 6, 2018
+7. [Constructing Datasets for Multi-hop Reading Comprehension Across Documents](https://arxiv.org/pdf/1710.06481.pdf)   11 Jun 2018
+8. [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf)  19 August 2018
+9. [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://arxiv.org/pdf/1809.09600.pdf)  25 Sep 2018
+10. [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://arxiv.org/pdf/1809.01576.pdf)   1 Oct 2018
+11. [Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581.pdf)    8 Oct 2018
+12. [Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.org/K18-1028.pdf) October 31 - November 1, 2018
+13. [MUSIC TRANSFORMER: GENERATING MUSIC WITH LONG-TERM STRUCTURE](https://arxiv.org/pdf/1809.04281.pdf)  12 Dec 2018 
+14. 
 
     
 </details> 
