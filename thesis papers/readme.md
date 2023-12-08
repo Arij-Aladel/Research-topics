@@ -8,7 +8,7 @@
 
 <details><summary>  2022 </summary>
 
-1. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)
+1. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)   21 Jul 2022
 2. [HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization](https://arxiv.org/pdf/2203.10741.pdf)  21 Mar 2022
 3.  [cosFormer: Rethinking Softmax in Attention](https://arxiv.org/pdf/2202.08791.pdf)  17  Feb 2022
 4.  [On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations](https://arxiv.org/pdf/2203.13928.pdf)  25 March 2022
