@@ -26,12 +26,14 @@
 12. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 july 2022
 13. [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf) 24 Aug 2023
 14. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
-15. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
-16. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
-17. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
-18. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
-19. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
-20. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
+15. [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/pdf/2210.07503.pdf)  14 Oct 2022
+16. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
+17. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
+18. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
+19. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
+20. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
+21. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
+22. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
 
     
 </details>
@@ -86,32 +88,54 @@
 16. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)  30 June 2020
 17. [Do Transformers Need Deep Long-Range Memory?](https://arxiv.org/pdf/2007.03356.pdf)  7 July 20207 July 2020
 18. [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf) 10 Jul 2020
-19. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf)    23 Sep 2020  
-20. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
-21. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)   1 Oct 2020
-22. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
-23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
-24. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
-25. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
+19. [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/pdf/2006.16236.pdf) 31 Aug 2020
+20. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf)    23 Sep 2020  
+21. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
+22. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)   1 Oct 2020
+23. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
+24. [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/pdf/1911.02972.pdf)  1 Nov 2020
+25. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
+26. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
+27. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
 
     
 </details>  
 
 <details><summary>  2019 </summary>
 
-1. [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/pdf/2006.16236.pdf)
-2. [Generating long sequences with sparse transformers](https://arxiv.org/pdf/1904.10509.pdf)  Published 23 April 2019
-3. [Large memory layers with product keys](https://arxiv.org/pdf/1907.05242.pdf)   10 July 2019
-4. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)       28 October 2019
-5. [Text Summarization with Pretrained Encoders.](https://arxiv.org/pdf/1910.12840.pdf)   Published 28 October 2019
+1. [Analysis of Positional Encodings for Neural Machine Translation](https://www-i6.informatik.rwth-aachen.de/publications/download/1132/RosendahlJanTranVietAnhKhoaWangWeiyueNeyHermann--AnalysisofPositionalEncodingsforNeuralMachineTranslation--2019.pdf)   2019
+2. [Language Models are Unsupervised Multitask Learners](https://gwern.net/doc/ai/nn/transformer/gpt/2019-radford.pdf)  2019
+3. [CC-News-En: A Large English News Corpus](https://people.eng.unimelb.edu.au/ammoffat/abstracts/cikm20ccnews.pdf)  2019
+4. [Cloze-driven Pretraining of Self-attention Networks](https://arxiv.org/pdf/1903.07785.pdf)     19 Mar 2019
+5. [Generating long sequences with sparse transformers](https://arxiv.org/pdf/1904.10509.pdf)  Published 23 April 2019
+6. [Sample Efficient Text Summarization Using a Single Pre-Trained Transformer](https://arxiv.org/pdf/1905.08836.pdf)  21 May 2019
+7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)  24 May 2019 
+8. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)  26 May 2019
+9. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)  2 Jun 2019
+10. [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/pdf/1905.07129.pdf)   4 Jun 2019
+11. [Large memory layers with product keys](https://arxiv.org/pdf/1907.05242.pdf)   10 July 2019
+12. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf)  26 Jul 2019
+13. [Natural Questions: A Benchmark for Question Answering Research](https://aclanthology.org/Q19-1026.pdf)    1 August 2019
+14. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799.pdf)   8 Aug 2019
+15. [Neural Text Summarization: A Critical Evaluation](https://arxiv.org/pdf/1908.08960.pdf)   23 Aug 2019
+16. [Text Summarization with Pretrained Encoders](https://arxiv.org/pdf/1908.08345.pdf)  5 Sep 2019
+17. [Generating Logical Forms from Graph Representations of Text and Entities](https://arxiv.org/pdf/1905.08407.pdf)  25 Sep 2019
+18. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)       28 October 2019
+19. [Text Summarization with Pretrained Encoders.](https://arxiv.org/pdf/1910.12840.pdf)   Published 28 October 2019
+20. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)   28 Oct 2019
+21. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)   29 Oct 2019
+22. [SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization](https://aclanthology.org/D19-5409.pdf)  4 Nov 2019
+23. [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://arxiv.org/pdf/1911.02671.pdf)  6 Nov 2019
+24. [COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING](https://arxiv.org/pdf/1911.05507.pdf)   13 Nov 2019  
     
 </details>
 
 
 <details><summary>  2018 </summary>
 
-1. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdfhttps://arxiv.org/pdf/1801.10198.pdf)
-2. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)
+1. [MUSIC TRANSFORMER: GENERATING MUSIC WITH LONG-TERM STRUCTURE](https://arxiv.org/pdf/1809.04281.pdf)  12 Dec 2018 
+2. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf)  30 Jan 2018
+3. 
 
     
 </details> 
