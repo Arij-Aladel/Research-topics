@@ -24,17 +24,18 @@
 10. [Semantic Self-Segmentation for Abstractive Summarization of Long Documents in Low-Resource Regimes](https://www.semanticscholar.org/paper/Semantic-Self-Segmentation-for-Abstractive-of-Long-Moro-Ragazzi/4eb45f33446018175e266738be22f4d830ed697e)  28 June 2022
 11. [An Empirical Survey on Long Document Summarization:Datasets, Models and Metrics](https://arxiv.org/pdf/2207.00939.pdf)  3 Jul 2022
 12. [BLONDE: An Automatic Evaluation Metric for Document-level Machine Translation](https://arxiv.org/pdf/2103.11878.pdf) 5 jul 2022
-13. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 july 2022
-14. [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf) 24 Aug 2023
-15. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
-16. [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/pdf/2210.07503.pdf)  14 Oct 2022
-17. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
-18. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
-19. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
-20. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
-21. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
-22. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
-23. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
+13. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf)  6 July 2002
+14. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 july 2022
+15. [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf) 24 Aug 2023
+16. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
+17. [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/pdf/2210.07503.pdf)  14 Oct 2022
+18. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
+19. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
+20. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
+21. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
+22. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
+23. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
+24. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
 
     
 </details>
@@ -104,13 +105,14 @@
 29. [Large Product Key Memory for Pretrained Language Models](https://arxiv.org/pdf/2010.03881.pdf)   8 Oct 2020
 30. [Dynamic Context Selection for Document-level Neural Machine Translation via Reinforcement Learning](https://arxiv.org/pdf/2010.04314.pdf)  9 Oct 2020
 31. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
-32. [Rethinking Document-level Neural Machine Translation](https://arxiv.org/pdf/2010.08961.pdf) 18 October 2020
-33. [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/pdf/1911.02972.pdf)  1 Nov 2020
-34. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
-35. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
-36. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
-37. [CTRLSUM: TOWARDS GENERIC CONTROLLABLE TEXT SUMMARIZATION](https://arxiv.org/pdf/2012.04281.pdf)   8 Dec 2020
-38. [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)  29 December 2020
+32. [Memformer: The Memory-Augmented Transformer](https://openreview.net/pdf?id=_adSMszz_g9)  14 October 2020
+33. [Rethinking Document-level Neural Machine Translation](https://arxiv.org/pdf/2010.08961.pdf) 18 October 2020
+34. [Blockwise Self-Attention for Long Document Understanding](https://arxiv.org/pdf/1911.02972.pdf)  1 Nov 2020
+35. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
+36. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
+37. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
+38. [CTRLSUM: TOWARDS GENERIC CONTROLLABLE TEXT SUMMARIZATION](https://arxiv.org/pdf/2012.04281.pdf)   8 Dec 2020
+39. [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf)  29 December 2020
 
     
 </details>  
@@ -151,6 +153,7 @@
 32. [Open Domain Web Keyphrase Extraction Beyond Language Modeling](https://arxiv.org/pdf/1911.02671.pdf)  6 Nov 2019
 33. [COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING](https://arxiv.org/pdf/1911.05507.pdf)   13 Nov 2019
 34. [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242.pdf)    16 Dec 2019
+35. [Meshed-Memory Transformer for Image Captioning](https://arxiv.org/pdf/1912.08226.pdf)   17 December 2019
     
 </details>
 
@@ -160,17 +163,18 @@
 1. [Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation](https://openreview.net/pdf?id=Hygfmc5U-7)  2018
 2. [SEARCHING FOR ACTIVATION FUNCTIONS](https://openreview.net/pdf?id=Hkuq2EkPf)   12 Feb 2018
 3. [Self-Attention with Relative Position Representations](https://arxiv.org/pdf/1803.02155.pdf)  12 Apr 2018
-4. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)   26 May 2019
-5. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf)  30 Jan 2018
-6. [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://aclanthology.org/N18-1065.pdf)   June 1 - 6, 2018
-7. [Constructing Datasets for Multi-hop Reading Comprehension Across Documents](https://arxiv.org/pdf/1710.06481.pdf)   11 Jun 2018
-8. [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf)  19 August 2018
-9. [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://arxiv.org/pdf/1809.09600.pdf)  25 Sep 2018
-10. [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://arxiv.org/pdf/1809.01576.pdf)   1 Oct 2018
-11. [Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581.pdf)    8 Oct 2018
-12. [Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.org/K18-1028.pdf) October 31 - November 1, 2018
-13. [MUSIC TRANSFORMER: GENERATING MUSIC WITH LONG-TERM STRUCTURE](https://arxiv.org/pdf/1809.04281.pdf)  12 Dec 2018 
-14. 
+4. [OpenSubtitles2018: Statistical Rescoring of Sentence Alignments in Large, Noisy Parallel Corpora](https://aclanthology.org/L18-1275.pdf)  1 May 2018
+5. [Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks](https://arxiv.org/pdf/1810.00825.pdf)   26 May 2019
+6. [Generating Wikipedia by summarizing long sequences](https://arxiv.org/pdf/1801.10198.pdf)  30 Jan 2018
+7. [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://aclanthology.org/N18-1065.pdf)   June 1 - 6, 2018
+8. [Constructing Datasets for Multi-hop Reading Comprehension Across Documents](https://arxiv.org/pdf/1710.06481.pdf)   11 Jun 2018
+9. [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226.pdf)  19 August 2018
+10. [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://arxiv.org/pdf/1809.09600.pdf)  25 Sep 2018
+11. [Document-Level Neural Machine Translation with Hierarchical Attention Networks](https://arxiv.org/pdf/1809.01576.pdf)   1 Oct 2018
+12. [Improving the Transformer Translation Model with Document-Level Context](https://arxiv.org/pdf/1810.03581.pdf)    8 Oct 2018
+13. [Uncovering divergent linguistic information in word embeddings with lessons for intrinsic and extrinsic evaluation](https://aclanthology.org/K18-1028.pdf) October 31 - November 1, 2018
+14. [MUSIC TRANSFORMER: GENERATING MUSIC WITH LONG-TERM STRUCTURE](https://arxiv.org/pdf/1809.04281.pdf)  12 Dec 2018 
+15. 
 
     
 </details> 
@@ -223,11 +227,21 @@
 
 <details><summary>  2008 </summary>
 
-1.[A unified architecture for natural language processing: deep neural networks with multitask learning](http://machinelearning.org/archive/icml2008/papers/391.pdf)   5 July 2008
+1. [A unified architecture for natural language processing: deep neural networks with multitask learning](http://machinelearning.org/archive/icml2008/papers/391.pdf)   5 July 2008
 </details> 
 
+
 <details><summary>  2004 </summary>
+
 1. [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013.pdf)   25 July 2004
+   
+</details> 
+
+
+<details><summary>  1977 </summary>
+
+1. [Perplexity—a measure of the difficulty of speech recognition tasks](https://www.semanticscholar.org/paper/Perplexity%E2%80%94a-measure-of-the-difficulty-of-speech-Jelinek-Mercer/8d350f2d767a70d55275a17d0b3dfcc80b2e0fee)    1 December 1977
+   
 </details> 
 
 
