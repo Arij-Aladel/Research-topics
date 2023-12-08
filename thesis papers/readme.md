@@ -5,7 +5,8 @@
 3. [The NLP Task Effectiveness of Long-Range Transformers](https://arxiv.org/pdf/2202.07856.pdf)  11 Feb 2023
 4. [Learning Better Masking for Better Language Model Pre-training](https://arxiv.org/pdf/2208.10806.pdf) 25 May 2023
 5. [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)  19 Jul 2023
-6. [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)  8 Nov 2023
+6. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) 9 Sep 2023
+7. [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)  8 Nov 2023
 
 </details>
 
@@ -37,13 +38,14 @@
 
 <details><summary>  2021 </summary>
 
-1. [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282.pdf)  3 Feb 2021
-2. [Efficient Attentions for Long Document Summarization](https://arxiv.org/pdf/2104.02112.pdf)   11 Apr 2021
-3. [READTWICE: Reading Very Large Documents with Memories](https://arxiv.org/pdf/2105.04241.pdf)  11 May 2021
-4. [Synthesizer: Rethinking Self-Attention for Transformer Models](https://arxiv.org/pdf/2005.00743.pdf) 24 May 2021
-5. [Long-Span Summarization via Local Attention and Content Selection](https://arxiv.org/pdf/2105.03801.pdf)   29 May 2021
-6. [Controllable Abstractive Dialogue Summarization with Sketch Supervision](https://arxiv.org/abs/2105.14064)  3 Jun 2021
-7. [Poolingformer: Long document modeling with pooling attention](https://arxiv.org/pdf/2105.04371.pdf)  24 Oct 2022
+1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/pdf/2007.14062.pdf) 8 Jan 2021
+2. [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering](https://arxiv.org/pdf/2007.01282.pdf)  3 Feb 2021
+3. [Efficient Attentions for Long Document Summarization](https://arxiv.org/pdf/2104.02112.pdf)   11 Apr 2021
+4. [READTWICE: Reading Very Large Documents with Memories](https://arxiv.org/pdf/2105.04241.pdf)  11 May 2021
+5. [Synthesizer: Rethinking Self-Attention for Transformer Models](https://arxiv.org/pdf/2005.00743.pdf) 24 May 2021
+6. [Long-Span Summarization via Local Attention and Content Selection](https://arxiv.org/pdf/2105.03801.pdf)   29 May 2021
+7. [Controllable Abstractive Dialogue Summarization with Sketch Supervision](https://arxiv.org/abs/2105.14064)  3 Jun 2021
+8. [Poolingformer: Long document modeling with pooling attention](https://arxiv.org/pdf/2105.04371.pdf)  24 Oct 2022
 4. [Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity](https://arxiv.org/pdf/2101.03961.pdf)  ArXiv  11 January 2021
 7. [Hierarchical Learning for Generation with Long Source Sequences](https://arxiv.org/pdf/2104.07545.pdf)  Published 15 April 2021
 8. [Long-Span Summarization via Local Attention and Content Selection](https://arxiv.org/pdf/2105.03801.pdf)  8 May 2021
@@ -76,17 +78,21 @@
 8. [From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/pdf/2005.04684.pdf) 10 May 2020
 9. [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/pdf/1907.10529.pdf)  8 Jan 2020
 10. [Funnel-transformer: Filtering out sequential redundancy for efficient language processing](https://arxiv.org/pdf/2006.03236.pdf) Published  5 June 2020
-11. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)  Published 5 June 2020
-12. [Transformers are RNNs: Fast autoregressive transformers with linear attention.](https://arxiv.org/pdf/2006.16236.pdf)    29 June 2020
-13. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)  30 June 2020
-14. [Do Transformers Need Deep Long-Range Memory?](https://arxiv.org/pdf/2007.03356.pdf)  7 July 20207 July 2020
-15. [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf) 10 Jul 2020
-16. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf)    23 Sep 2020  
-17. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
-18. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)   1 Oct 2020
-19. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
-20. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
-21. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
+11. [GMAT: Global Memory Augmentation for Transformers](https://arxiv.org/pdf/2006.03274.pdf)  5 Jun 2020
+12. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)  Published 5 June 2020
+13. [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768.pdf)  14 Jun 2020
+14. [SEAL: Segment-wise Extractive-Abstractive Long-form Text Summarization](https://arxiv.org/pdf/2006.10213.pdf)  18 Jun 2020
+15. [Transformers are RNNs: Fast autoregressive transformers with linear attention.](https://arxiv.org/pdf/2006.16236.pdf)    29 June 2020
+16. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/pdf/2006.16668.pdf)  30 June 2020
+17. [Do Transformers Need Deep Long-Range Memory?](https://arxiv.org/pdf/2007.03356.pdf)  7 July 20207 July 2020
+18. [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf) 10 Jul 2020
+19. [A Divide-and-Conquer Approach to the Summarization of Long Documents](https://arxiv.org/pdf/2004.06190.pdf)    23 Sep 2020  
+20. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf) 30 sep_2020
+21. [Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers](https://arxiv.org/pdf/2006.03555.pdf)   1 Oct 2020
+22. [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding](https://arxiv.org/pdf/2010.04903.pdf)   10 Oct 2020
+23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENT TRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)   8 Nov 2020
+24. [ETC: Encoding Long and Structured Inputs in Transformers](https://aclanthology.org/2020.emnlp-main.19.pdf)  November 16–20, 2020
+25. [Longformer: The Long-Document Transformer](https://arxiv.org/pdf/2004.05150.pdf)  2 Dec 2020
 
     
 </details>  
