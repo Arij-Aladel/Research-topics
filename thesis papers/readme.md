@@ -19,11 +19,12 @@
 9. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 july 2022
 10. [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf) 24 Aug 2023
 11. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
-12. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
-13. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
-14. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
-15. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
-16. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
+12. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
+13. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
+14. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
+15. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
+16. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
+17. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
 
     
 </details>
