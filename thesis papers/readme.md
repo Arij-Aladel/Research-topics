@@ -6,8 +6,10 @@
 4. [Learning Better Masking for Better Language Model Pre-training](https://arxiv.org/pdf/2208.10806.pdf) 25 May 2023
 5. [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)  19 Jul 2023
 6. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) 9 Sep 2023
-7. [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)  8 Nov 2023
-8. [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466.pdf)  6 Nov 2023
+7. [Giraffe: Adventures in Expanding Context Lengths in LLMs](https://arxiv.org/pdf/2308.10882.pdf) 21 August 2023
+8. [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)  8 Nov 2023
+9. [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466.pdf)  6 Nov 2023
+10. [Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding](https://arxiv.org/pdf/2312.17044.pdf)  29 Dec 2023
 
 </details>
 
