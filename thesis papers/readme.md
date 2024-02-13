@@ -7,6 +7,7 @@
 5. [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)  19 Jul 2023
 6. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) 9 Sep 2023
 7. [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf)  8 Nov 2023
+8. [The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/pdf/2305.19466.pdf)  6 Nov 2023
 
 </details>
 
