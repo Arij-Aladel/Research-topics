@@ -33,13 +33,14 @@
 16. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
 17. [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/pdf/2210.07503.pdf)  14 Oct 2022
 18. [KERPLE: Kernelized Relative Positional Embedding or Length Extrapolation](https://arxiv.org/pdf/2205.09921.pdf)  13 october 2022
-19. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
-20. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
-21. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
-22. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
-23. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
-24. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
-25. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
+19. [The Curious Case of Absolute Position Embeddings](https://arxiv.org/pdf/2210.12574.pdf)   23 oct 2022
+20. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
+21. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
+22. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
+23. [Transformer Language Models without Positional Encodings Still Learn Positional Information](https://arxiv.org/pdf/2203.16634.pdf) 5 Dec 2022
+24. [CTRLsum: Towards Generic Controllable Text Summarization](https://aclanthology.org/2022.emnlp-main.396/) December 7-11, 2022
+25. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)  20 Dec 2022
+26. [Efficient Long-Text Understanding with Short-Text Models](https://arxiv.org/pdf/2208.00748.pdf) 27 Dec 2022
 
     
 </details>
