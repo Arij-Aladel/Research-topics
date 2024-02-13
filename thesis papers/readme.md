@@ -67,9 +67,11 @@
 17. [SHAPE: Shifted Absolute Position Embedding for Transformers](https://arxiv.org/pdf/2109.05644.pdf)   13 Sep 2021
 18. [Context-Adaptive Document-Level Neural Machine Translation](https://arxiv.org/pdf/2104.08259.pdf)  7 Oct 2021
 19. [NB-MLM: Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis](https://aclanthology.org/2021.emnlp-main.717.pdf)   November 7–11, 2021
+20. [CAPE: Encoding Relative Positions with Continuous Augmented Positional Embeddings](https://arxiv.org/pdf/2106.03143.pdf)  9 Nov 2021
 16. [Sparse is Enough in Scaling Transformers](https://arxiv.org/pdf/2111.12763.pdf)  24 Nov 2021
 17. [Memory transformer with hierarchical attention for long document processing](https://ieeexplore.ieee.org/document/9681776)  25 November 2021
 18. [ GLaM: Efficient scaling of language models with mixtureof-experts. ](https://arxiv.org/pdf/2112.06905.pdf)   13 December 2021
+19.
    
     
 </details> 
