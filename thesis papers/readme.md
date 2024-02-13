@@ -26,14 +26,14 @@
 9. [LongT5: Efficient Text-To-Text Transformer for Long Sequences](https://arxiv.org/pdf/2112.07916.pdf)  3 May 2022
 10. [Semantic Self-Segmentation for Abstractive Summarization of Long Documents in Low-Resource Regimes](https://www.semanticscholar.org/paper/Semantic-Self-Segmentation-for-Abstractive-of-Long-Moro-Ragazzi/4eb45f33446018175e266738be22f4d830ed697e)  28 June 2022
 11. [An Empirical Survey on Long Document Summarization:Datasets, Models and Metrics](https://arxiv.org/pdf/2207.00939.pdf)  3 Jul 2022
-12. [BLONDE: An Automatic Evaluation Metric for Document-level Machine Translation](https://arxiv.org/pdf/2103.11878.pdf) 5 jul 2022
+12. [BLONDE: An Automatic Evaluation Metric for Document-level Machine Translation](https://arxiv.org/pdf/2103.11878.pdf) 5 Jul 2022
 13. [Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf)  6 July 2002
-14. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 july 2022
+14. [Scaling Laws vs Model Architectures:How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 July 2022
 15. [A Survey of Controllable Text Generation using Transformer-based Pre-trained Language Models](https://arxiv.org/pdf/2201.05337.pdf) 24 Aug 2023
 16. [inearizing Transformer with Key-Value Memory Bank](https://arxiv.org/pdf/2203.12644.pdf)  13 Oct 2022
 17. [STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition](https://arxiv.org/pdf/2210.07503.pdf)  14 Oct 2022
-18. [KERPLE: Kernelized Relative Positional Embedding or Length Extrapolation](https://arxiv.org/pdf/2205.09921.pdf)  13 october 2022
-19. [The Curious Case of Absolute Position Embeddings](https://arxiv.org/pdf/2210.12574.pdf)   23 oct 2022
+18. [KERPLE: Kernelized Relative Positional Embedding or Length Extrapolation](https://arxiv.org/pdf/2205.09921.pdf)  13 October 2022
+19. [The Curious Case of Absolute Position Embeddings](https://arxiv.org/pdf/2210.12574.pdf)   23 Oct 2022
 20. [Processing Long Legal Documents with Pre-trained Transformers: Modding LegalBERT and Longformer](https://aclanthology.org/2022.nllp-1.11.pdf)  2 November 2022
 21. [Processing Long Legal Documents with Pre-trained Transformers:Modding LegalBERT and Longformer](https://arxiv.org/pdf/2211.00974.pdf) 10 Nov 2022
 22. [RETHINKING ATTENTION WITH PERFORMERS](https://arxiv.org/pdf/2009.14794.pdf)   19 Nov 2022
