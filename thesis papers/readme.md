@@ -255,7 +255,7 @@
 
 <details><summary>  To read </summary>
 
-1.[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v1)
+1. [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v1)
 2. [Efficient Long-Text Understanding with Short-Text Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00547/115346/Efficient-Long-Text-Understanding-with-Short-Text)
 3. [Simple Local Attentions Remain Competitive for Long-Context Tasks](https://arxiv.org/pdf/2112.07210.pdf) 4 May 2022
 4. [Adapting Pretrained Text-to-Text Models for Long Text Sequences](https://arxiv.org/pdf/2209.10052.pdf)  16 Nov 2022
@@ -294,6 +294,7 @@
 37. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)    20 Dec 2022
 38. [he Stack: 3 TB of permissively licensed source code](https://arxiv.org/pdf/2211.15533.pdf)        20 Nov 2022
 39. [https://arxiv.org/pdf/2110.08207.pdf](MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION)   17 March 2022
+40. [https://arxiv.org/pdf/2203.08913](MEMORIZING TRANSFORMERS)
     
     
 </details> 
