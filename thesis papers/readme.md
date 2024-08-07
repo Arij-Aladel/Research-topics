@@ -256,46 +256,47 @@
 
 <details><summary>  To read </summary>
 
-1. [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v1)
-2. [Efficient Long-Text Understanding with Short-Text Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00547/115346/Efficient-Long-Text-Understanding-with-Short-Text)
-3. [Simple Local Attentions Remain Competitive for Long-Context Tasks](https://arxiv.org/pdf/2112.07210.pdf) 4 May 2022
-4. [Adapting Pretrained Text-to-Text Models for Long Text Sequences](https://arxiv.org/pdf/2209.10052.pdf)  16 Nov 2022
-5. [Investigating Efficiently Extending Transformers Long Input Summarization](https://arxiv.org/pdf/2208.04347.pdf)  8 Aug 2022
-6. [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)  28 Feb 2023
-7. [How Far are We from Robust Long Abstractive Summarization?](https://arxiv.org/pdf/2210.16732.pdf)  30 Oct 2022
-8. [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding](https://arxiv.org/pdf/2305.14196.pdf) 23 May 2023
-9. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf)  13 Jul 2023
-10. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf) 6 Jul 2023
-11. [Position Information in Transformers:An Overview](https://arxiv.org/pdf/2102.11090.pdf)  9 Sep 2021
-12. [mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences](https://arxiv.org/pdf/2305.11129.pdf)  18 May 2023 
-13. [Dynamic Masking Rate Schedules for MLM Pretraining](https://arxiv.org/pdf/2305.15096.pdf)
-14. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) 26 Jul 2019
-15. [Cross-Attention is All You Need:Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf)
-16. [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)   4 Mar 2022
-17. [PONET: POOLING NETWORK FOR EFFICIENT TOKEN MIXING IN LONG SEQUENCES](https://arxiv.org/pdf/2110.02442.pdf) 22 May 2023
-18. [DEBERTAV3: IMPROVING DEBERTA USING ELECTRA-STYLE PRE-TRAINING WITH GRADIENTDISENTANGLED EMBEDDING SHARING](https://arxiv.org/pdf/2111.09543.pdf) 24 Mar 2023
-19. [COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf) 14 Apr 2023
-20. [AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content](https://arxiv.org/pdf/2305.14806.pdf) 24 May 2023
-21. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf) 24 May 2023
-22. [Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)  23 Jun 2023
-23. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENTTRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)  8 Nov 2020
-24. [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)  15 Jun 2023
-25. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 Jul 2022
-26. [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682.pdf)   26 Oct 2022
-27. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf) 4 Jun 2020
-28. [An Experimental Study on Pretraining Transformers from Scratch for IR](https://arxiv.org/pdf/2301.10444.pdf)   25 Jan 2023
-29. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf) 13 Jul 2023
-30. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf#cite.RMT)   24 May 2023
-31. [Blockwise Compression of Transformer-based Models without Retraining](https://arxiv.org/pdf/2304.01483.pdf)  4 Apr 2023
-32. [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475.pdf)
-33. [Text Compression-aided Transformer Encoding](https://arxiv.org/pdf/2102.05951.pdf)   11 Feb 2021
-34. [GROUPED SELF-ATTENTION MECHANISM FOR A MEMORY-EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2210.00440.pdf) 6 Oct 2022
-35. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)
-36. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)  August 1–6, 2021. Facebook AI Research, 3Allen Institute for AI
-37. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)    20 Dec 2022
-38. [he Stack: 3 TB of permissively licensed source code](https://arxiv.org/pdf/2211.15533.pdf)        20 Nov 2022
-39. [MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION](https://arxiv.org/pdf/2110.08207.pdf)   17 March 2022
-40. [MEMORIZING TRANSFORMERS](https://arxiv.org/pdf/2203.08913)
+1.[Long-Range Transformer Architectures for Document Understanding](https://arxiv.org/pdf/2309.05503) 23 Sep 2023
+2. [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432v1)
+3. [Efficient Long-Text Understanding with Short-Text Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00547/115346/Efficient-Long-Text-Understanding-with-Short-Text)
+4. [Simple Local Attentions Remain Competitive for Long-Context Tasks](https://arxiv.org/pdf/2112.07210.pdf) 4 May 2022
+5. [Adapting Pretrained Text-to-Text Models for Long Text Sequences](https://arxiv.org/pdf/2209.10052.pdf)  16 Nov 2022
+6. [Investigating Efficiently Extending Transformers Long Input Summarization](https://arxiv.org/pdf/2208.04347.pdf)  8 Aug 2022
+7. [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)  28 Feb 2023
+8. [How Far are We from Robust Long Abstractive Summarization?](https://arxiv.org/pdf/2210.16732.pdf)  30 Oct 2022
+9. [ZeroSCROLLS: A Zero-Shot Benchmark for Long Text Understanding](https://arxiv.org/pdf/2305.14196.pdf) 23 May 2023
+10. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf)  13 Jul 2023
+11. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf) 6 Jul 2023
+12. [Position Information in Transformers:An Overview](https://arxiv.org/pdf/2102.11090.pdf)  9 Sep 2021
+13. [mLongT5: A Multilingual and Efficient Text-To-Text Transformer for Longer Sequences](https://arxiv.org/pdf/2305.11129.pdf)  18 May 2023 
+14. [Dynamic Masking Rate Schedules for MLM Pretraining](https://arxiv.org/pdf/2305.15096.pdf)
+15. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/pdf/1907.11692.pdf) 26 Jul 2019
+16. [Cross-Attention is All You Need:Adapting Pretrained Transformers for Machine Translation](https://aclanthology.org/2021.emnlp-main.132.pdf)
+17. [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)   4 Mar 2022
+18. [PONET: POOLING NETWORK FOR EFFICIENT TOKEN MIXING IN LONG SEQUENCES](https://arxiv.org/pdf/2110.02442.pdf) 22 May 2023
+19. [DEBERTAV3: IMPROVING DEBERTA USING ELECTRA-STYLE PRE-TRAINING WITH GRADIENTDISENTANGLED EMBEDDING SHARING](https://arxiv.org/pdf/2111.09543.pdf) 24 Mar 2023
+20. [COLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/pdf/2303.09752.pdf) 14 Apr 2023
+21. [AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content](https://arxiv.org/pdf/2305.14806.pdf) 24 May 2023
+22. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf) 24 May 2023
+23. [Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)  23 Jun 2023
+24. [LONG RANGE ARENA: A BENCHMARK FOR EFFICIENTTRANSFORMERS](https://arxiv.org/pdf/2011.04006.pdf)  8 Nov 2020
+25. [Block-State Transformer](https://arxiv.org/pdf/2306.09539.pdf)  15 Jun 2023
+26. [Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?](https://arxiv.org/pdf/2207.10551.pdf)  21 Jul 2022
+27. [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682.pdf)   26 Oct 2022
+28. [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf) 4 Jun 2020
+29. [An Experimental Study on Pretraining Transformers from Scratch for IR](https://arxiv.org/pdf/2301.10444.pdf)   25 Jan 2023
+30. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/pdf/2307.06945.pdf) 13 Jul 2023
+31. [Adapting Language Models to Compress Contexts](https://arxiv.org/pdf/2305.14788.pdf#cite.RMT)   24 May 2023
+32. [Blockwise Compression of Transformer-based Models without Retraining](https://arxiv.org/pdf/2304.01483.pdf)  4 Apr 2023
+33. [Hypoformer: Hybrid Decomposition Transformer for Edge-friendly Neural Machine Translation](https://aclanthology.org/2022.emnlp-main.475.pdf)
+34. [Text Compression-aided Transformer Encoding](https://arxiv.org/pdf/2102.05951.pdf)   11 Feb 2021
+35. [GROUPED SELF-ATTENTION MECHANISM FOR A MEMORY-EFFICIENT TRANSFORMER](https://arxiv.org/pdf/2210.00440.pdf) 6 Oct 2022
+36. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)
+37. [Shortformer: Better Language Modeling Using Shorter Inputs](https://aclanthology.org/2021.acl-long.427.pdf)  August 1–6, 2021. Facebook AI Research, 3Allen Institute for AI
+38. [A Length-Extrapolatable Transformer](https://arxiv.org/pdf/2212.10554.pdf)    20 Dec 2022
+39. [he Stack: 3 TB of permissively licensed source code](https://arxiv.org/pdf/2211.15533.pdf)        20 Nov 2022
+40. [MULTITASK PROMPTED TRAINING ENABLES ZERO-SHOT TASK GENERALIZATION](https://arxiv.org/pdf/2110.08207.pdf)   17 March 2022
+41. [MEMORIZING TRANSFORMERS](https://arxiv.org/pdf/2203.08913)
     
     
 </details> 
